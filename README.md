@@ -13,4 +13,4 @@ Após  ler  todas  as  notas  de  todos  os  alunos  de  uma  determinada discip
 
 Este exercicio foi atribuido para a turma com intuito do desenvolvimento de um projeto com determinadas restrições à cima
 
-Onde eu usufruí da linguagem Java para o desenvolvimento da mesma com intuito de implementação tanto logicamente quanto esteticamente
+Onde usufruí da linguagem Java para o desenvolvimento da mesma com intuito de implementação tanto logicamente quanto esteticamente
